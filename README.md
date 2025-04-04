@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yosepjeon
 - 👀 I’m interested in Spring & Node.js
-- 🌱 I’m currently learning Spring & Node.js
+- 🌱 I’m currently learning Spring
 
 <!---
 yosepjeon/yosepjeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
